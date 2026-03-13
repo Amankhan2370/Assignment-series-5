@@ -31,7 +31,7 @@ Follow-up video submissions building on Assignment 5.2 concepts, submitted for A
 
 | Campus  | Folder                     | # of Submissions |
 |---------|----------------------------|-----------------|
-| Boston  | `Assign 5.3 Boston/`       | 23              |
+| Boston  | `Assign 5.3 Boston/`       | 24              |
 | Oakland | `Oakland assignment 5.3/`  | 5               |
 
 ---
@@ -50,13 +50,3 @@ All submissions are video files (`.mp4`) recorded and uploaded by individual stu
 - File naming conventions are inconsistent — future submissions should follow: `LastName_FirstName_Assignment#.mp4`.
 
 ---
-
-## Suggested Naming Convention
-
-For consistency in future submissions, please use the following format:
-
-```
-LastName_FirstName_Assignment5-X.mp4
-```
-
-**Example:** `Khan_Aman_Assignment5-2.mp4`
