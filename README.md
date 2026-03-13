@@ -42,48 +42,6 @@ All submissions are video files (`.mp4`) recorded and uploaded by individual stu
 
 ---
 
-## Student Ratings
-
-> Ratings are out of **10**. Columns: **5.2** and **5.3** scores per campus.
-
-### Boston Campus
-
-| Student         | Assignment 5.2 | Assignment 5.3 |
-|-----------------|:--------------:|:--------------:|
-| Jiang           | —              | —              |
-| Kudzayi         | —              | —              |
-| Harshal Solanki | —              | —              |
-| Chen            | —              | —              |
-| Chuku           | —              | —              |
-| Hirpara         | —              | —              |
-| Mingyu          | —              | —              |
-| Pallam          | —              | —              |
-| Patel           | —              | —              |
-| Tanaka          | —              | —              |
-| Tang            | —              | —              |
-| Xiaoying Bao    | —              | —              |
-| Malaviya        | —              | —              |
-| Sachin Temgar   | N/A            | —              |
-| Danyang H       | N/A            | —              |
-| Lei Luo         | N/A            | —              |
-
-### Oakland Campus
-
-| Student      | Assignment 5.2 | Assignment 5.3 |
-|--------------|:--------------:|:--------------:|
-| Hanlin Cheng | —              | —              |
-| Varshtha     | —              | —              |
-| Jing Shao    | —              | N/A            |
-| Wang Yuexin  | —              | —              |
-| Xinyu Li     | —              | —              |
-| Jiao Zhang   | —              | —              |
-| Jinnian      | —              | N/A            |
-| Raushaan     | —              | N/A            |
-
-> **Legend:** `—` = not yet graded &nbsp;|&nbsp; `N/A` = no submission for that assignment
-
----
-
 ## Notes
 
 - All video files are in `.mp4` format (one `.MP4` exception in the Boston 5.3 folder).
