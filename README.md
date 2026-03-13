@@ -46,7 +46,5 @@ All submissions are video files (`.mp4`) recorded and uploaded by individual stu
 
 - All video files are in `.mp4` format (one `.MP4` exception in the Boston 5.3 folder).
 - Submission timestamps range from late February to early March 2026.
-- Students from both campuses completed both assignments; Oakland 5.3 has fewer submissions than Boston.
-- File naming conventions are inconsistent — future submissions should follow: `LastName_FirstName_Assignment#.mp4`.
 
 ---
